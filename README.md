@@ -20,7 +20,7 @@ A Full Stack Web developer🎯from Kosovo.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fisnik-murati-477445202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fisnik%Murati-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/fisnik-murati-477445202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FisnikMurati-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/fisnikmurati_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fisnikmurati_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:fisnikmurati94@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fisnikmurati94@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
