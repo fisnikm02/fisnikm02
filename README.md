@@ -3,8 +3,7 @@ A Full Stack Web developer🎯from Kosovo.
 
 - 👨‍💻 Full Stack Laravel - VueJs Developer
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/fisnikmurati_)
-- 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
+- 📫 How to reach me: [Instagram](https://instagram.com/fisnikmurati_) [LinkedIn](https://www.linkedin.com/in/fisnik-murati-477445202/)
 
 **Languages:**  
 
