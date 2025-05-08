@@ -1,4 +1,4 @@
-### Hi there, I'm Fisnik👦,
+### Hi there, I'm Fisnik,
 A Full Stack Web developer🎯from Kosovo.
 
 - 👨‍💻 Full Stack Laravel - VueJs Developer
