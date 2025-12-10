@@ -1,24 +1,68 @@
-### Hi there, I'm Fisnik,
-A Full Stack Web developer🎯from Kosovo.
+# Hi, I'm Fisnik 👋
+### Full Stack Web Developer • Laravel & Vue.js • AI & Automation Enthusiast
 
-- 👨‍💻 Full Stack Laravel - VueJs Developer
-- 📫 How to reach me: [Instagram](https://instagram.com/fisnikmurati_) [LinkedIn](https://www.linkedin.com/in/fisnik-murati-477445202/)
+I'm a full-stack developer from **Kosovo**, passionate about building clean, scalable web apps, automation tools, and AI-powered solutions.  
+Recently, I've been working a lot with **RAG systems, local LLMs (Ollama), Twilio WhatsApp automation, microservices**, and building **cross-platform desktop apps** using Electron.
 
-**Languages:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+## 🧰 Tech Stack
 
-<h3> 🤝🏻 Connect with Me </h3>
+### **Frontend**
+- ⚡ Vue.js • Nuxt.js  
+- 🎨 TailwindCSS • Sass  
+- 🧩 JavaScript • TypeScript  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/fisnik-murati-477445202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FisnikMurati-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/fisnikmurati_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fisnikmurati_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:fisnikmurati94@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fisnikmurati94@gmail.com-blue?style=flat-square&logo=gmail"></a>
+### **Backend**
+- 🚀 Laravel (API + Full Stack)  
+- 🟢 Node.js • Express  
+- 🔒 Authentication (Sanctum, JWT)  
+
+### **AI / Automation**
+- 🤖 RAG Systems (Ollama, embeddings, vector search)  
+- 🧠 Local LLMs (Llama, DeepSeek, Mistral via Ollama)  
+- 🔄 WhatsApp Business + Twilio automation  
+- ⚙️ Cron jobs, background workers, queues  
+
+### **DevOps / Servers**
+- 💿 Linux • Ubuntu • VPS  
+- 🌐 Nginx • Apache  
+- 🐳 Docker (learning & using for services)  
+
+### **Databases**
+- 🗄️ MySQL • MariaDB  
+- 🗂️ Redis  
+
+### **Apps & Tools**
+- 🖥️ Electron.js cross-platform desktop apps  
+- 📦 REST APIs & microservices  
+- 🔧 CI/CD (basic)  
+
+---
+
+## 🧑‍💻 What I’ve Been Working On
+- ⚙️ A CRM system that automates **WhatsApp messaging for clinics** using Twilio  
+- 🧠 Desktop RAG application for Windows/macOS using **Electron + Ollama**  
+- 🛠️ Tools for face detection / image processing  
+- 🌐 Custom websites and full stack systems using Laravel + Vue.js  
+
+---
+
+## 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/fisnik-murati-477445202/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fisnik%20Murati-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/fisnikmurati_/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-fisnikmurati_-blue?style=flat-square&logo=instagram">
+  </a>
+  <a href="mailto:fisnikmurati94@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-fisnikmurati94@gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
 </p>
+
+---
+
+### ⭐ Looking for Collaboration?
+I’m open to working on **AI tools, SaaS products, automation systems, Laravel/Vue apps, or anything interesting**.  
+Feel free to reach out! 🚀
